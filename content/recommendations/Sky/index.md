@@ -4,6 +4,7 @@ subtitle: "Network Security Engineer - III, Aryaka Networks"
 linkedin: "https://linkedin.com/in/sri-krishna-yadav-4b2233183"
 email: "srikrish141@gmail.com"
 relationship: "Mentor @ Aryaka Networks"
+order: 3
 ---
 "I had the privilege of working with Aashvi for two years at Aryaka Networks, where I also had the opportunity to mentor her. She excelled as a Cloud and Network Security Engineer. Aashvi demonstrated exceptional technical skills, configuring physical, virtual, and cloud firewalls (Checkpoint, Palo Alto), as well as Private Access NCP VPN, to deliver secure network designs with features like threat hunting, intrusion detection, SSL inspection, Deep Packet Inspection and DNS security. She also deployed cloud-based security solutions, managed firewalls, and zero-trust network access.
 

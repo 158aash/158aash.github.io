@@ -1,9 +1,10 @@
 ---
-title: "Thomas Jackson"
+title: "Thomas Jackson "
 subtitle: "Director, Global R&D, Product Security, Alcon"
 linkedin: "https://linkedin.com/in/sri-krishna-yadav-4b2233183"
-email: "thomas.e.jackson@asu.edu"
-relationship: "Manager @ Alcon "
+
+relationship: "Manager @ Alcon"
+order: 1
 ---
   “I had the pleasure of working closely with Aashvi Nagendra during the summer of 2024 within our
 embedded security team at Alcon. During this time, there were multiple product security related
