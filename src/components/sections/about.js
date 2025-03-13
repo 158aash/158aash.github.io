@@ -138,7 +138,7 @@ const About = () => {
             Hello World! I’m Aashvi Nagendra, a Master’s student in Cybersecurity at the {' '}<a href="https://www.umd.edu">University of Maryland</a>. I’m just as excited about reinforcing digital defenses as I am about pulling them apart to see what’s inside. With {' '}<a href=''>3+ years</a> of experience in configuring Network and Security infrastructures, working in a SOC setup and fine-tuning threat detection systems, my work has given me the chance to explore a range of exciting projects, from implementing Zero-Trust architectures to deploying advanced IDS/IPS and Web Application Firewalls (WAFs), giving me hands-on experience with all sides of security. 
             </p>
             <p> 
-            I began my journey with Certified Ethical Hacker {' '}<a href='https://drive.google.com/file/d/1zFnRmw-6moOKfQ-cp6J-ReKFQnA5IHYL/view?usp=sharing'>(CEH)</a> certification, where I learned to think like an attacker and uncover vulnerabilities. Now, my aim is to master the defensive side with the GIAC Certified Incident Handler{' '}<a href='https://www.giac.org/certifications/certified-incident-handler-gcih/'>(GCIH) </a> certification.
+            I have been certified with the GIAC Certified Incident Handler{' '}<a href='https://www.giac.org/certifications/certified-incident-handler-gcih/'>(GCIH) </a> and Certified Ethical Hacker {' '}<a href='https://drive.google.com/file/d/1zFnRmw-6moOKfQ-cp6J-ReKFQnA5IHYL/view?usp=sharing'>(CEH)</a> certification, where I learned to think like an attacker with ands-on experience in incident response and threat detection. 
             </p>
             <p>
               I’ve had the privilege of working at{' '}
